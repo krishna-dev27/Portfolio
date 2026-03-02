@@ -346,7 +346,7 @@ span{
 }
 
 .testimonial-item {
-    min-height: 450px;
+    min-height: 550px;
     max-width: 450px;
     background: var(--bg-color);
     border: 0.3rem solid var(--bg-color);
@@ -376,6 +376,7 @@ span{
 
 .testimonial-item h3{
     font-size: 1.5rem;
+    text-align: center;
 }
 
 
